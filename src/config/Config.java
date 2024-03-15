@@ -1,3 +1,5 @@
+package src.config;
+
 import java.util.Objects;
 
 public class Config {
